@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <RootNamespace>uttne.Linq</RootNamespace>
+    <AssemblyName>uttne.Linq</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\source\Enumerable.cs" Link="Enumerable.cs" />
+  </ItemGroup>
+
+</Project>
