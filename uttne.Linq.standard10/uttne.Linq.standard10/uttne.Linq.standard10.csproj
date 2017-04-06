@@ -6,4 +6,8 @@
     <AssemblyName>uttne.Linq</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\..\source\Enumerable.cs" Link="Enumerable.cs" />
+  </ItemGroup>
+
 </Project>
