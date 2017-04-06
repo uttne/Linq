@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace uttne.Linq
 {
     public static class Enumerable
     {
         /// <summary>
-        /// 
+        /// Returns the IEnumerable that puts the item in the end of the source.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="source"></param>
@@ -22,7 +23,7 @@ namespace uttne.Linq
         }
 
         /// <summary>
-        /// 
+        /// Returns the IEnumerable that puts the item in index of the source.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="source"></param>
@@ -48,7 +49,7 @@ namespace uttne.Linq
         }
 
         /// <summary>
-        /// 
+        /// Returns the IEnumerable that puts items in index of the source.
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="source"></param>
