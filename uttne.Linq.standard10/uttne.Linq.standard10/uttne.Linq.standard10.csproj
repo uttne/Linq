@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\source\Enumerable.cs" Link="Enumerable.cs" />
+    <Compile Include="..\..\src\Enumerable.cs" Link="Enumerable.cs" />
   </ItemGroup>
 
 </Project>

@@ -38,7 +38,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\source\Enumerable.cs">
+    <Compile Include="..\..\src\Enumerable.cs">
       <Link>Enumerable.cs</Link>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
